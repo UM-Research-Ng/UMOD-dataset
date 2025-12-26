@@ -3,13 +3,7 @@ Collected via an ROV platform, this first public underwater vision-sonar dataset
 
 <img width="1357" height="219" alt="数据集样例图" src="https://github.com/user-attachments/assets/b79ced07-e166-4563-bbef-9986a98597b4" />
 
-UMOD/
-  ├── Vis/
-  │   ├── imgs/
-  │   └── labels/
-  └── Sonar/
-      ├── imgs/
-      └── labels/
+<img width="177" height="156" alt="555" src="https://github.com/user-attachments/assets/f832c57c-38d2-4fc7-85db-f63b063baa40" />
 
 At the same time, we also offer the download method via Baidu Cloud Drive:
 
